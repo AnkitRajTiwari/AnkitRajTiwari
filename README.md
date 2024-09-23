@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 ![](https://leetcard.jacoblin.cool/AnkitRajTiwari?ext=heatmap)
 - 😄 Pronouns: ...![]
+
 -->
+<p align=center >
+ <a href="https://leetcode.com/u/AnkitRajTiwari/" target="_blank">
+ <img align="center" src='https://leetcard.jacoblin.cool/AnkitRajTiwari?hide=ranking&border=0&radius=21' width='380"'>
+</a>
+</p>
