@@ -10,9 +10,9 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AnkitRajTiwari&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitRajTiwari" /> </p>
 
 - ❤️ I’m currently in love with <b>AI Full Stack Applicatons</b>.
-- 🌱 I’m currently learning **TypeScript, Advance Back-end Development and Devops**
+- 🌱 I’m currently learning **Next.js, Advance Back-end Development and Devops**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, MongoDB, React.js, Node.js, Express.js, Git & GitHub, TypeScript , C++, Java**
+- 💬 Ask me about **C++, Java,HTML, CSS, JavaScript, React.js, Node.js, Git & GitHub, TypeScript , C++, Java**
 - 📫 How to reach me **ankittiwari.at2026@gmail.com**
 - ⚡ Fun fact **I love learning new things, Teaching and Creating Content**
 
