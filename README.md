@@ -6,13 +6,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
-A proficient Full Stack Developer with extensive experience in developing scalable Frontend and backend systems and Full Stack Apps. Eager to bring a fresh perspective, adaptability, and enthusiasm to a dynamic team. I am working on upscaling my skills by learning <b>Backend development</b> and <b>LLM</b>. Passionate and always eager to learn new technologies and frameworks to improve the quality of the Work.  
+A proficient Full Stack Developer with extensive experience in developing scalable Frontend and backend systems and Full Stack Apps. Eager to bring a fresh perspective, adaptability, and enthusiasm to a dynamic team. I am working on upscaling my skills by learning <b>Backend development</b>. Passionate and always eager to learn new technologies and frameworks to improve the quality of the Work.  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AnkitRajTiwari&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitRajTiwari" /> </p>
 
 - ❤️ I’m currently in love with <b>AI Full Stack Applicatons</b>.
 - 🌱 I’m currently learning **Node.js, Advance Back-end Development and Devops**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C++, Java,HTML, CSS, JavaScript, React.js, Node.js, Git & GitHub, TypeScript**
+- 💬 Ask me about **C++, Java,HTML, CSS, JavaScript, React.js, Node.js, Git & GitHub**
 - 📫 How to reach me **ankittiwari.at2026@gmail.com**
 - ⚡ Fun fact **I love learning new things, Teaching and Creating Content**
 
