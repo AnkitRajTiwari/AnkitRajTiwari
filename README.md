@@ -39,7 +39,7 @@ edits)
 ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,AI,ML," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ edits)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,mysql" />
   </a>
 </p>
 
