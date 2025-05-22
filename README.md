@@ -39,19 +39,19 @@ edits)
 ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,mongodb,vite" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,vite" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql,ts,sass" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,mysql" />
   </a>
 </p>
 
