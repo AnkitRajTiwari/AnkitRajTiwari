@@ -71,7 +71,7 @@ edits)
 ### 📊 GitHub Stats:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitRajTiwari&" alt="AnkitRajTiwari" /></p>
 <p align="center">
- <a href="https://github.com/AnkitRajTiwari" align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnkitRajTiwari&theme=github_dark&show_icons=true" alt="Uday's GitHub stats" />
+ <a href="https://github.com/AnkitRajTiwari" align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnkitRajTiwari&theme=github_dark&show_icons=true" alt="Ankit's GitHub stats" />
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnkitRajTiwari&theme=github_dark&layout=compact" alt="Top Langs" width="400"/>
 </a>
 </p>
