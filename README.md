@@ -45,7 +45,7 @@ edits)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,vite" />
+    <img src="https://skillicons.dev/icons?i=react,redux,expressjs,nodejs,mongodb,vite" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ edits)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,figma" />
   </a>
 </p>
 
