@@ -39,7 +39,7 @@ edits)
 ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   </a>
 </p>
 
